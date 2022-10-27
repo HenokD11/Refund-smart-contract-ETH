@@ -5,7 +5,7 @@ Refund by location smart contract
 Operating systems Forks Badge Pull Requests Badge Issues Badge GitHub contributors License Badge
 
 ethr
-Introduction
+# Introduction
 
     A program or application stored and run on the blockchain network is referred to as a decentralized application (dApp).
 
@@ -13,19 +13,19 @@ The refund by location smart contract is aimed to be used when one party, for ex
 
 If at any point, the GPS sensor indicates that an employee is outside the range of the agreed GPS area, the contract state will be updated to indicate that it is out of compliance.
 
-Ethereum has two types of accounts:
+# Ethereum has two types of accounts:
 
         Externally Owned Accounts (EOA): These accounts are used by nodes to send or receive Ether. These accounts are associated with a private key.
         Contract Accounts: These accounts hold and execute smart contract code. Unlike EOAs, contract accounts do not have a private key.
 
-Requirements
+# Requirements
 
 The project requires the following: Node.JS
 Contrbutors
 
     Henok Desalegn
 
-Contributing
+# Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
